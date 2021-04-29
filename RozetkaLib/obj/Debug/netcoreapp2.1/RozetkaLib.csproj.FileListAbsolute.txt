@@ -1,0 +1,14 @@
+/home/nikita/Diploma/RozetkaAppTesting/RozetkaLib/obj/Debug/netcoreapp2.1/RozetkaLib.csprojAssemblyReference.cache
+/home/nikita/Diploma/RozetkaAppTesting/RozetkaLib/obj/Debug/netcoreapp2.1/RozetkaLib.csproj.CoreCompileInputs.cache
+/home/nikita/Diploma/RozetkaAppTesting/RozetkaLib/obj/Debug/netcoreapp2.1/RozetkaLib.AssemblyInfoInputs.cache
+/home/nikita/Diploma/RozetkaAppTesting/RozetkaLib/obj/Debug/netcoreapp2.1/RozetkaLib.AssemblyInfo.cs
+/home/nikita/Diploma/RozetkaAppTesting/RozetkaLib/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/home/nikita/Diploma/RozetkaAppTesting/RozetkaLib/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/home/nikita/Diploma/RozetkaAppTesting/RozetkaLib/bin/Debug/netcoreapp2.1/nunit.engine.dll
+/home/nikita/Diploma/RozetkaAppTesting/RozetkaLib/bin/Debug/netcoreapp2.1/nunit.engine.api.dll
+/home/nikita/Diploma/RozetkaAppTesting/RozetkaLib/bin/Debug/netcoreapp2.1/nunit.engine.core.dll
+/home/nikita/Diploma/RozetkaAppTesting/RozetkaLib/bin/Debug/netcoreapp2.1/RozetkaLib.deps.json
+/home/nikita/Diploma/RozetkaAppTesting/RozetkaLib/bin/Debug/netcoreapp2.1/RozetkaLib.dll
+/home/nikita/Diploma/RozetkaAppTesting/RozetkaLib/bin/Debug/netcoreapp2.1/RozetkaLib.pdb
+/home/nikita/Diploma/RozetkaAppTesting/RozetkaLib/obj/Debug/netcoreapp2.1/RozetkaLib.dll
+/home/nikita/Diploma/RozetkaAppTesting/RozetkaLib/obj/Debug/netcoreapp2.1/RozetkaLib.pdb

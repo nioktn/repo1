@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RozetkaTests", "RozetkaTests\RozetkaTests.csproj", "{2D25591A-BBF7-47FD-A835-FD41666A9A51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RozetkaLib", "RozetkaLib\RozetkaLib.csproj", "{A491B8DC-71C1-4C68-93CF-044653DCBBC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D25591A-BBF7-47FD-A835-FD41666A9A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D25591A-BBF7-47FD-A835-FD41666A9A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D25591A-BBF7-47FD-A835-FD41666A9A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D25591A-BBF7-47FD-A835-FD41666A9A51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A491B8DC-71C1-4C68-93CF-044653DCBBC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A491B8DC-71C1-4C68-93CF-044653DCBBC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A491B8DC-71C1-4C68-93CF-044653DCBBC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A491B8DC-71C1-4C68-93CF-044653DCBBC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D0C3983-DBE0-4C13-81C4-550CCF30811E}
+	EndGlobalSection
+EndGlobal
